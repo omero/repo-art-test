@@ -1,2 +1,2 @@
 # repo-art-test
-notificaction slack
+Opened new PR
